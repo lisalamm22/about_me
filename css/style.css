@@ -624,3 +624,27 @@ a {
 .letter-spacing {
   letter-spacing: .2rem;
   color: rgba(255, 255, 255, 0.5) !important; }
+
+.brand-active-1{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2em;
+}
+.brand-active-2{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.single-brand{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.single-brand img{
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px;
+}
+
